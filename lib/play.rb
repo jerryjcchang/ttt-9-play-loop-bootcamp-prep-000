@@ -35,4 +35,9 @@ def turn(board)
   end
 end
 
+def play(board)
+  turn = 0 
+  
+  
+
 # Define your play method below
